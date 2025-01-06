@@ -1,5 +1,5 @@
 # LCSX Tech
-
+![LCSX Tech Logo](https://www.lcsx.tech/web/image/website/1/logo/LCSX%20Tech?unique=97fc2b0)
 LCSX Tech est une société par actions simplifiée (SAS) fondée en février 2023, spécialisée dans le conseil en systèmes et logiciels informatiques, le développement de logiciels personnalisés et la formation sur les outils et technologies informatiques.
 
 Basée à Marcollin, en Isère, l'entreprise est un partenaire officiel d'Odoo, une suite d'applications intégrées pour la gestion d'entreprise.
